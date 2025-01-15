@@ -174,13 +174,7 @@ Feel free to submit issues or pull requests if you'd like to contribute to the p
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## 📧 Contact
 
-If you have any questions or suggestions, please contact me at [pranjalk449@gmail.com](mailto:pranjalk449@gmail.com).
+If you have any questions or suggestions, please contact me at [snehabaranwal5613@gmail.com](mailto:snehabaranwal5613@gmail.com).
 
